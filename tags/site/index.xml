@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Michael Doan</title>
-    <link>https://michaeldoan.com/</link>
-    <description>Recent content in Home on Michael Doan</description>
+    <title>Site on Michael Doan</title>
+    <link>https://michaeldoan.com/tags/site/</link>
+    <description>Recent content in Site on Michael Doan</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 10 Jan 2025 15:49:48 -0800</lastBuildDate>
-    <atom:link href="https://michaeldoan.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://michaeldoan.com/tags/site/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nothing to see yet</title>
       <link>https://michaeldoan.com/writing/my-first-post/</link>

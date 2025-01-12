@@ -3,25 +3,22 @@ languageCode = 'en-us'
 title = 'Michael Doan'
 theme = 'Typo'
 
-[[params.menu]]
-name = "home"
-url = "/"
-
-[[params.menu]]
-name = "posts"
-url = "/posts"
-
 breadcrumbs = true
 
 [params]
 # homeIntroTitle = "Hello!"
-homeCollectionTitle = 'Posts'
-homeCollection = 'posts'
+homeCollectionTitle = 'Writing'
+homeCollection = 'writing'
 
 homeIntroContent = """
 I'm a certified public accountant and co-founder of [Basis 365 Accounting](https://www.basis365.com). 
 """
 # This website is a collection of my [writing](/posts).
+
+# Syntax highlight on code blocks
+[markup]
+[markup.highlight]
+style = 'algol'
 
 [[params.social]]
 name = "X"
@@ -31,7 +28,20 @@ url = "https://x.com/michaeltdoan"
 name = "LinkedIn"
 url = "https://www.linkedin.com/in/michaeldoan/"
 
+# Lists parameters
+paginationSize = 100
+listSummaries = true
 listDateFormat = 'Jan 2,  2006'
 
 showFooter = true
 footerContent = "2025"
+
+# [params] I don't use
+
+# [[params.menu]]
+# name = "home"
+# url = "/"
+
+# [[params.menu]]
+# name = "about"
+# url = "/about"
