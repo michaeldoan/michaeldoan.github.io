@@ -4,13 +4,15 @@ title = 'Michael Doan'
 theme = 'Typo'
 publishDir = "."
 
+# Breadcrumbs
 breadcrumbs = true
 
 [params]
 # homeIntroTitle = "Hello!"
 homeCollectionTitle = 'Writing'
 homeCollection = 'writing'
-
+showFooter = true
+footerContent = "2025"
 homeIntroContent = """
 I'm a certified public accountant and co-founder of [Basis 365 Accounting](https://www.basis365.com). 
 """
@@ -32,10 +34,7 @@ url = "https://www.linkedin.com/in/michaeldoan/"
 # Lists parameters
 paginationSize = 100
 listSummaries = true
-listDateFormat = 'Jan 2,  2006'
-
-showFooter = true
-footerContent = "2025"
+listDateFormat = 'Jan 2, 2006'
 
 # [params] I don't use
 

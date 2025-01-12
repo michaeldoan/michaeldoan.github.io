@@ -26,12 +26,24 @@
     --code-margin-top: 2rem;
     --code-margin-bottom: 2rem;
 
+    /* Original from Typo theme:
+
     --h1-font-size: 2em;
     --h2-font-size: 1.8em;
     --hx-font-size: 1.3em;
     --p-font-size: 1em;
     --p-line-height: 1.5em;
     --caption-font-size: .8em;
+    */
+
+    /* My font sizing */
+    --h1-font-size: 1.2em;
+    --h2-font-size: 1.2em;
+    --hx-font-size: 1.2em;
+    --p-font-size: 1em;
+    --p-line-height: 1.5em;
+    --caption-font-size: .8em;
+
 
     /* List indentation */
     --li-indent: 1.5rem;
