@@ -4,9 +4,6 @@ title = 'Michael Doan'
 theme = 'Typo'
 publishDir = "."
 
-# Breadcrumbs
-breadcrumbs = true
-
 [params]
 # homeIntroTitle = "Hello!"
 homeCollectionTitle = 'Writing'
@@ -17,6 +14,8 @@ homeIntroContent = """
 I'm a certified public accountant and co-founder of [Basis 365 Accounting](https://www.basis365.com). 
 """
 # This website is a collection of my [writing](/posts).
+# Breadcrumbs
+breadcrumbs = false
 
 # Syntax highlight on code blocks
 [markup]
@@ -38,10 +37,10 @@ listDateFormat = 'Jan 2, 2006'
 
 # [params] I don't use
 
-# [[params.menu]]
-# name = "home"
-# url = "/"
+[[params.menu]]
+name = "home"
+url = "/"
 
-# [[params.menu]]
-# name = "about"
-# url = "/about"
+[[params.menu]]
+name = "writing"
+url = "/writing"
