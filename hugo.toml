@@ -2,6 +2,7 @@ baseURL = 'https://michaeldoan.com/'
 languageCode = 'en-us'
 title = 'Michael Doan'
 theme = 'Typo'
+publishDir = "."
 
 breadcrumbs = true
 
