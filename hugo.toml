@@ -11,9 +11,9 @@ homeCollection = 'writing'
 showFooter = true
 footerContent = "2025"
 homeIntroContent = """
-I'm a certified public accountant and co-founder of [Basis 365 Accounting](https://www.basis365.com). 
+I'm a certified public accountant and co-founder of [Basis 365 Accounting](https://www.basis365.com). Before launching Basis 365, I spent years as an audit partner at a CPA firm, where I worked closely with public and private companies, guiding them through audits and SEC filings. My journey has also included roles as a controller and vice president of finance for several corporations, giving me a well-rounded perspective on accounting and financial leadership.
+This website is where I share my thoughts, ideas, and expertise. Want to connect? You can find me on [X](https://x.com/michaeltdoanh) and [LinkedIn](https://www.linkedin.com/in/michaeldoan/).
 """
-# This website is a collection of my [writing](/posts).
 # Breadcrumbs
 breadcrumbs = false
 
@@ -22,20 +22,10 @@ breadcrumbs = false
 [markup.highlight]
 style = 'algol'
 
-[[params.social]]
-name = "X"
-url = "https://x.com/michaeltdoan"
-
-[[params.social]]
-name = "LinkedIn"
-url = "https://www.linkedin.com/in/michaeldoan/"
-
 # Lists parameters
 paginationSize = 100
 listSummaries = true
 listDateFormat = 'Jan 2, 2006'
-
-# [params] I don't use
 
 [[params.menu]]
 name = "home"
@@ -44,3 +34,13 @@ url = "/"
 [[params.menu]]
 name = "writing"
 url = "/writing"
+
+# [params] I don't use
+
+# [[params.social]]
+# name = "X"
+# url = "https://x.com/michaeltdoan"
+
+# [[params.social]]
+# name = "LinkedIn"
+# url = "https://www.linkedin.com/in/michaeldoan/"
