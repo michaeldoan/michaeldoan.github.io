@@ -2,7 +2,7 @@ baseURL = 'https://michaeldoan.com/'
 languageCode = 'en-us'
 title = 'Michael Doan'
 theme = 'Typo'
-publishDir = "."
+publishDir = "public"
 
 [params]
 # homeIntroTitle = "Hello!"
