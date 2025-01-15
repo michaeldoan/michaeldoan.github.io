@@ -3,8 +3,6 @@ date = '2025-01-15T09:09:19-08:00'
 draft = false
 title = 'Using Loom for Walkthroughs'
 +++
-# Using Loom record a process walkthrough
-
 [Loom](https://www.loom.com) is an screen recorder that captures what you're doing on your computer screen. It captures the audio too. 
 
 It's an amazing productivity tool that I use everyday to document and communicate with my team. One of my favorite ways to use Loom is to use create a process walkthrough screen recording. 
