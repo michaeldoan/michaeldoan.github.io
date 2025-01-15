@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'Michael Doan'
 theme = 'Typo'
 publishDir = "public"
+paginationSize = 100
+listSummaries = true
+listDateFormat = 'Jan 2, 2006'
 
 [params]
 # homeIntroTitle = "Hello!"
@@ -24,11 +27,6 @@ breadcrumbs = false
 [markup]
 [markup.highlight]
 style = 'algol'
-
-# Lists parameters
-paginationSize = 100
-listSummaries = true
-listDateFormat = 'Jan 2, 2006'
 
 [[params.menu]]
 name = "home"
