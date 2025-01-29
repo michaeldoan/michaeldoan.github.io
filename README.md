@@ -1,2 +1,0 @@
-# michaeldoan.github.io
-Blog
